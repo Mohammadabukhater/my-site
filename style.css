@@ -1,0 +1,32 @@
+h1{
+    color:brown;
+}
+body
+{ 
+background-image:url('https://cdn.pixabay.com/photo/2019/09/30/01/38/night-4514639_1280.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+*{
+    color:white;
+}
+nav{display: block;}
+p{
+    font-size:30px;
+    background-color:rgb(26, 25, 25);}
+ ol li {
+margin-top:5px;
+margin-bottom:5px;
+margin-right:5px;
+margin-left:5px;
+ }
+ ol li{border-style:groove;
+    
+border-width:5px;
+}
+ol li{
+    padding-top:13px;
+    padding-bottom:13px;
+    padding-right:13px;
+    padding-left:13px;
+}
